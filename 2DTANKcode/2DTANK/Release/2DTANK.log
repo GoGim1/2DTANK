@@ -1,0 +1,16 @@
+﻿  main.cpp
+d:\编程\2dtank\2dtank\broad.h(6): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\编程\2dtank\2dtank\broad.h(11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\编程\2dtank\2dtank\broad.h(21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\编程\2dtank\2dtank\broad.h(22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\编程\2dtank\2dtank\broad.h(34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+main.cpp(50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+main.cpp(152): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+main.cpp(191): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  0 of 52 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  2DTANK.vcxproj -> D:\编程\2DTANK\Release\2DTANK.exe
+  2DTANK.vcxproj -> D:\编程\2DTANK\Release\2DTANK.pdb (Full PDB)

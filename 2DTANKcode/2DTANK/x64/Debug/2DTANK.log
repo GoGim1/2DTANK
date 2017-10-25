@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\编程\2dtank\2dtank\broad.h(6): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\编程\2dtank\2dtank\broad.h(11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\编程\2dtank\2dtank\broad.h(21): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\编程\2dtank\2dtank\broad.h(21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\编程\2dtank\2dtank\broad.h(22): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\编程\2dtank\2dtank\broad.h(22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\编程\2dtank\2dtank\main.cpp(49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\编程\2dtank\2dtank\main.cpp(113): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\编程\2dtank\2dtank\main.cpp(149): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  2DTANK.vcxproj -> D:\编程\2DTANK\x64\Debug\2DTANK.exe
+  2DTANK.vcxproj -> D:\编程\2DTANK\x64\Debug\2DTANK.pdb (Full PDB)
